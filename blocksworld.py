@@ -1,3 +1,5 @@
+#Carlos Chacoff Alfaro
+#Jaime Aguilera 
 #Random generator
 
 stacks = int(raw_input("Enter the number of stacks : "))
